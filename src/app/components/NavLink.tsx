@@ -12,6 +12,10 @@ const links = [
         name: 'Who I Am',
         path: '/resume'
     },
+    {
+        name: 'My Creations',
+        path: '/work'
+    },
 ]
 
 const NavLink = () => {

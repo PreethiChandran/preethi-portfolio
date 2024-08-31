@@ -28,6 +28,7 @@ const config = {
       primary:"#121212",
       secondary:{
         DEFAULT:"#80ffdb",
+        hover:"#23f7bb"
       }
 
      },
