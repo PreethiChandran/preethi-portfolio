@@ -25,7 +25,7 @@ const HeroSection = () => {
 
     const handleDownload = () => {
         const link = document.createElement('a');
-        link.href = '/preethi-portfolio/Preethi_C_CV.pdf'; // Path to your PDF in the public folder
+        link.href = '/preethi-portfolio/Preethi_CV_IND.pdf'; // Path to your PDF in the public folder
         link.download = 'Preethi_C_CV.pdf'; // Suggested file name
         link.click();
     };
@@ -44,9 +44,9 @@ const HeroSection = () => {
                                 sequence={[
                                     'Preethi',
                                     1000,
-                                    'Web Developer',
+                                    'Frontend Developer',
                                     1000,
-                                    'Mobile App Developer',
+                                    'React.js Developer',
                                     1000,
                                 ]}
                                 wrapper="span"
