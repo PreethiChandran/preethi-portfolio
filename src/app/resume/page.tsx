@@ -47,7 +47,7 @@ const about = {
         },
         {
             fieldName: 'Phone',
-            fieldValue: '(+91)-73971 70695',
+            fieldValue: '(+91)-88072 24194',
         },
         {
             fieldName: 'Experience',
